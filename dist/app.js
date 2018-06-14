@@ -1,1 +1,0 @@
-function changeImage(){element=document.getElementById("myimage"),element.src.match("bulbon")?element.src="/i/eg_bulboff.gif":element.src="/i/eg_bulbon.gif"}
